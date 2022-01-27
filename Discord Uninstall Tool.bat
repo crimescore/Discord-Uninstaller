@@ -1,7 +1,7 @@
 @echo off
 echo Uninstalling Discord...
-echo 
-echo 
+echo  
+echo  
 taskkill /f /im discord.exe
 del /f /q C:\Users\%username%\AppData\Roaming\discord
 del /f /q C:\Users\%username%\AppData\Local\Discord
