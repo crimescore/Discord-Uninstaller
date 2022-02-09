@@ -6,3 +6,4 @@ del /f /q C:\Users\%username%\Desktop\Discord.exe
 del /f /q C:\Users\%username%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Discord.exe
 del /f /q C:\ProgramData\SquirrelMachineInstalls\Discord.exe
 del /f /q C:\Users\%username%\AppData\Microsoft\Windows\Start Menu\Programs\Startup\Discord.exe
+del /f /q C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc.
